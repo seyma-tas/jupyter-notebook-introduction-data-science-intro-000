@@ -1,5 +1,5 @@
 
-# Jupyter Notebook CodeAlong
+# Jupyter Notebook
 
 ### Introduction
 
